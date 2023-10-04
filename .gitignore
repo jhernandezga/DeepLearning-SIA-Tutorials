@@ -1,3 +1,10 @@
 MNIST/
 TP1/introduction to Lightning
+TP1/CIFAR10_Training
+TP1/CIFAR10_Training_Tuned
+TP1/data
+TP1/FashionMNIST
+TP1/.png.png
+TP1/test_bar_classes.png
+TP1/training_bar_classes.png
 .venv
